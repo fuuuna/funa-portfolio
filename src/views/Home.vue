@@ -6,7 +6,7 @@
     >
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12">
-          <h1 class="display-1 font-weight-thin mb-4">PORTFOLIO</h1>
+          <h1 class="display-1 font-weight-thin mb-4">funa's portfolio</h1>
           <!-- TODO: ここ差し替える -->
           <h4 class="subheading">ここを自分の名前とかに差し替えてね</h4>
           <!-- ハッシュリンク追加 -->

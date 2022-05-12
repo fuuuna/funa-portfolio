@@ -21,7 +21,20 @@ export default {
     products: [
       {
         id: 1,
-        name: 'ここにタイトルを入れてね',
+        name: 'YWine',
+        // TODO: ここに差し替えたい画像のパスを入れてね
+        image: require('@/assets/re-vr.png'),
+        year: '2020',
+        category: 'プロジェクト',
+        use: 'ここに使った技術を入れてね',
+        urls: [
+          // TODO: ここにリンクしたいURLを入れてね
+          'http://google.com'
+        ],
+      },
+      {
+        id: 1,
+        name: 'YWine',
         // TODO: ここに差し替えたい画像のパスを入れてね
         image: require('@/assets/re-vr.png'),
         year: '2020',
